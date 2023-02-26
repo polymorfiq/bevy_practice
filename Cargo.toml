@@ -1,0 +1,11 @@
+[workspace]
+resolver = "2"
+
+members = [
+	"agents",
+	"controls",
+	"environment",
+	"game",
+	"ui",
+	"world",
+]
